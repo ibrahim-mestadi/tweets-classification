@@ -2,6 +2,8 @@
 
 This project implements a machine learning pipeline for classifying tweets into different categories (Politics and Sports) using various classification algorithms including Logistic Regression, Random Forest, XGBoost, and Support Vector Machine.
 
+The choice of the dataset is justified by the fact that this is a well known dataset in Kaggle ( a very known competition) and many companies use it for tests in Data Science postiions. So it's a trusted Dataset that will test test our abilities
+
 ## Project Structure
 
 ```
@@ -97,10 +99,15 @@ The project includes several visualizations:
 
 ## Future Improvements
 
-- Hyperparameter tuning for each model
-- Feature engineering enhancements
-- Cross-validation implementation
-- Additional text preprocessing techniques
+- **Hyperparameter Optimization**: Apply advanced tuning techniques to improve model performance.
+- **Feature Engineering**: Refine feature extraction and selection to enhance data representation.
+- **Cross-Validation**: Implement cross-validation to ensure model generalization and reduce overfitting.
+- **Advanced Text Preprocessing**: Integrate additional text preprocessing methods for improved data quality.
+- **Real-Time Analysis**: Previously implemented real-time analysis for Twitter, now restricted to paid solutions; architecture details are present in this repo (we wanted to do the same idea). https://github.com/Frandiiile/Stock-Market-Real-Time-Analysis 
+- **Trend Prediction for Tweets**: Trend prediction is limited due to changes in data access policies, with paid solutions now required.
+
+
+
 
 ## Contributers: 
 - Ibrahim Mestadi & Aimane Frandile
