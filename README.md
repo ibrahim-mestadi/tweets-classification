@@ -106,6 +106,12 @@ The project includes several visualizations:
 - **Real-Time Analysis**: Previously implemented real-time analysis for Twitter, now restricted to paid solutions; architecture details are present in this repo (we wanted to do the same idea). https://github.com/Frandiiile/Stock-Market-Real-Time-Analysis 
 - **Trend Prediction for Tweets**: Trend prediction is limited due to changes in data access policies, with paid solutions now required.
 
+## The desired Architecture 
+
+This was the goal architecture but due to the scrapping issue it was limited 
+
+![image](https://github.com/user-attachments/assets/36164624-ca6e-455f-b258-fda43b873031)
+
 
 
 
